@@ -17,13 +17,14 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": [
+    "hanswang@microsoft.com"
+  ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/OPS-E2E-PPE/E2E_RepoSyncing_Public",
-  "skip_source_output_uploading": false,
-  "need_preview_pull_request": false,
-  "contribution_branch_mappings": {},
+  "git_repository_branch_open_to_public_contributors": "pri2pub-statuscheck",
+  "need_preview_pull_request": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
